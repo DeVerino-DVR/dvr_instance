@@ -1,6 +1,5 @@
 > In short create your in-game instance to have 28 players in the zone to bypass RedM zones
 
-## Script Overview [Github](https://github.com/DeVerino-DVR/dvr_instance)
 ## My other scripts : [Tebex](https://dvrscripts.tebex.io/)
 This script manages player instances within a game environment. It allows for the creation, management, and deletion of instances based on interior IDs or polygon zones defined by the player. The script is composed of client and server-side code to handle various functionalities.
 
