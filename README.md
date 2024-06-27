@@ -1,5 +1,3 @@
-![image|690x266](upload://k0axwykWwQnu9tzEHdfmcYe3Qhx.png)
-
 > In short create your in-game instance to have 28 players in the zone to bypass RedM zones
 
 ## Script Overview [Github](https://github.com/DeVerino-DVR/dvr_instance)
